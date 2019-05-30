@@ -6,4 +6,5 @@ api-version: 1.13
 commands:
    heapdump:
       description: Creates a JVM heap dump for memory analysis.
+      permission: me.bloodmc.heap
       usage: /heapdump
